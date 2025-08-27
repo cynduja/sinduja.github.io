@@ -1,7 +1,5 @@
 title: "Sinduja Rangarajan"
 description: "Investigative data journalist and data developer"
-url: ""
-baseurl: ""
 url: "https://cynduja.github.io"
 baseurl: "/sinduja.github.io"   # must match the repo name
 markdown: kramdown
