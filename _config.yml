@@ -1,0 +1,14 @@
+title: "Sinduja Rangarajan"
+description: "Investigative data journalist and data developer"
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  projects:
+    output: true
+
+exclude:
+  - README.md
